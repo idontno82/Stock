@@ -23,6 +23,7 @@ My attempt at making a complete clone of onedrive, obviously without the slop, a
 ---
 **BACKGROUND SERVICE:** - watches selected directories for changes
 > DETECTED CHANGE
+==I don't really know how to do this yet==
 1. Run START process
 
 ---
